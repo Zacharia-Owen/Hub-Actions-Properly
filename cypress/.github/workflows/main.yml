@@ -9,7 +9,7 @@ on:
 # Jobs to carry out
 jobs:
   test:
-    # Operating system to run job on hopefully
+    # Operating system to run job on hopefully maybe
     runs-on: ubuntu-latest
 
     # Steps in job
